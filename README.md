@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, React Native, Angular**
 
-- 📫 How to reach me **novamaster.official@gmail.com**
+- 📫 How to reach me **soumensamanta.official@gmail.com**
 
 - ⚡ Fun fact **No buddy cares**
 
